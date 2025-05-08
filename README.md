@@ -15,4 +15,4 @@ This package will also install the following dependencies automatically:
 Install the required package:
 
 <pre> ```bash pip install sentence-transformers ``` </pre>
- 
+<pre>```bash pip install sentence-transformers```</pre>
